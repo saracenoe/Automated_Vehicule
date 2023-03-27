@@ -10,13 +10,19 @@ Onboard computer vision systems for autonomous cars embed several programs, comb
 
 Goal: Our mission will focus on the embedded system part 3: **design, train and deploy an image segmentation model**, which will easily integrate into the complete chain.
 
+## Presentation
+Slides showing the workflow of the project.
+
+## Article
+10 pages' articles talking about Image Semantic Segmentation
+
 ## Installation
   ### Prerequisites
-  Python 3.8\
+  Python 3.9
     
   ### Virtual environment
       
-      conda create -n auto python=3.8 -y
+      conda create -n auto python=3.9 -y
       conda activate auto
       
   ### Dependencies    
